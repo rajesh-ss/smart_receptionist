@@ -9,16 +9,6 @@ Smart receptionist
  - [haar-classifier-download](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 
-## Appendix
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 
 ## Authors
 
@@ -83,13 +73,13 @@ sudo service apache2 restart
     
 ## Screenshots
 
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/1.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/2.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/3.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/4.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/5.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/6.png)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/7.png)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/8.jpg)
-![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/9.jpeg)
-![video](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots/video1.mp4)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/1.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/2.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/3.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/4.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/5.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/6.png)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/7.png)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/8.jpg)
+![App Screenshot](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/9.jpeg)
+![video](https://github.com/rajesh-ss/smart_receptionist/blob/main/screenshots-and-video/video1.mp4)
